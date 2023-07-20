@@ -1,4 +1,4 @@
-Intall Tailwindcss
+Install Tailwindcss
 https://tailwindcss.com/
 npm install -D tailwindcss
 npx tailwindcss init
@@ -30,7 +30,7 @@ https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
 2 - VSC -> File -> Preference -> Settings -> editor: quick suggestions -> item = string, value = on
 
 Prettier
-Intall VSC extension prettier
+Install VSC extension prettier
 https://prettier.io/
 search for default formatter and select prettier
 Settings
